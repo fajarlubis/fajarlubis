@@ -1,8 +1,11 @@
-- Hi, I’m @fajarlubis.me
-- I’m skilled in Golang
-- I’m currently learning AI/Python
-- I’m looking to collaborate on Anything
-- How to reach me (Instagram: fajarlubis.me)
+I am a software engineer based in Jakarta, Indonesia. 
+
+
+Find me on:
+
+Fiverr (https://fiverr.com/fajarlubis)
+Instagram (https://instagram.com/fajarlubis.me)
+Website (https://fajarlubis.me)
 
 <!---
 fajarlubis/fajarlubis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
