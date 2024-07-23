@@ -1,9 +1,5 @@
 I am a software engineer based in Jakarta, Indonesia. 
 
-
-Find me on:
-
-- Instagram (https://instagram.com/fajarlubis.me)
 - Website (https://fajarlubis.me)
 
 <!---
